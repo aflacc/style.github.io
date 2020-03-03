@@ -1,0 +1,431 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito&display=swap'); /* Adds the font. Can be deleted. */
+
+/* Color classes */
+.blue {background-color: rgba(42, 36, 82, 0.479);}
+.red {background-color: rgba(133, 52, 37, 0.589);}
+.green {background-color: rgba(32, 90, 58, 0.596);}
+/* Size classes */
+.small {font-size: 10px;}
+.normal {font-size: 20px;}
+.big {font-size: 40px;}
+/*section Classes */
+.header {font-size: 30px; background-color: rgba(29, 23, 65, 0.479);}
+.header2 {font-size: 25px; background-color: rgba(16, 13, 37, 0.479);}
+/*Text Classes*/
+.italic {font-style: italic; color: rgba(255, 255, 255, 0.514);}
+.bold {font-weight: bold;}
+.uline {text-decoration: underline;}
+.oline {text-decoration: overline;}
+.strike {text-decoration: line-through;}
+/* Button Classes */
+button {outline: 0px; background-color: rgba(70, 70, 70, 0.493); font-family: 'Nunito'; font-size: 20px; color: white; border: 0px; width: 100%;}
+button:hover {cursor: pointer;}
+.link {background-color: rgba(119, 51, 40, 0.432);}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+  background-color: rgb(31, 31, 31);
+  font-family: 'Nunito';
+  color: white;
+} /* Sets the background color. Can be deleted. */
+div {
+  padding-left: 10px;
+  overflow: auto;
+  background-color: rgba(145, 145, 145, 0.192);
+  font-size: 20px;
+  color: white;
+  font-family: 'Nunito';
+} /* Sets the divs properties. Can be deleted. */
+a:link {
+  color: rgb(255, 128, 128);
+  text-decoration: unset;
+}
+a:visited {
+  color: rgb(255, 128, 128);
+  text-decoration:unset;
+}
+/* Hi, What are you doing down here? */
